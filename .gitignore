@@ -1,0 +1,93 @@
+.DS_Store
+.idea/*
+*.py[cod]
+.Python
+.project
+.pydevproject
+*settings_local.py
+*.log*
+db_light
+.so
+.coverage
+.coverage.*
+.cache
+*.pid
+files
+
+logs
+
+celerybeat-schedule
+
+celeryd.pid
+uwsgi.pid
+
+static/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+db.sqlite3
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython
+.ipynb_checkpoints
+
+# Mac
+.DS_Store
+
+
+
